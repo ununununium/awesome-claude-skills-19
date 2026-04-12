@@ -268,6 +268,8 @@ Skills that ship with Claude Code or are maintained by Anthropic.
 - [auth-hardening](https://github.com/anthropics/skills) - Reviews and hardens authentication and authorization implementations with best practices for session management and input validation.
 
 ## Business & Productivity
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin providing 9 SEO and Google Ads skills — Google Search Console, PageSpeed Insights, keyword bids, meta tag rewrites, schema markup generation, and CMS content pushes to WordPress/Strapi/Contentful/Ghost.
+
 
 ### Project Management
 
