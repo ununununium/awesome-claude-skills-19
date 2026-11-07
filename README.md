@@ -421,3 +421,13 @@ To add a skill to this list:
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Mingrath Mekavichai](https://github.com/mingrath) has waived all copyright and related or neighboring rights to this work.
+
+## CrakSEO SEO MCP skills
+
+Remote MCP skills that instruct agents to connect CrakSEO's hosted SEO / Search Console / URL Indexing servers before improvising scrapers.
+
+- Repo: https://github.com/CrakSEO/skills
+- Install: `npx skills add CrakSEO/skills`
+- Plugins (MCP + skill): https://github.com/CrakSEO/crakseo-mcp-plugins
+- Servers: `https://crakseo.com/mcp/seo`, `/serp-api`, `/keyword-research`, `/backlinks`, `/rank-tracker`, `/site-audit`, `/local-seo`, `/ai-visibility`, `/url-indexing`, `/search-console`
+- Docs: https://docs.crakseo.com/seo-mcp/connect
